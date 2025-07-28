@@ -4,3 +4,4 @@
   - Employee training materials
   - Sample Disaster Recovery Plan
   - Code of Ethics
+  - Cybersecurity Asset Inventory with Dashboard
